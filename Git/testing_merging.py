@@ -10,4 +10,13 @@ def mul(a, b):
 def div(a, b):
     return a / b
 
+
 print('hello world')
+
+
+def main():
+    a = 10
+    b = 20
+    c = add(a,b)
+    print(c)
+
